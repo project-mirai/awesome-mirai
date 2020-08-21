@@ -8,7 +8,7 @@
 # mirai-console 插件
 
 
-# 基于mriai的应用
+# 基于mirai的应用
 
 
 # 使用其他语言sdk开发的应用

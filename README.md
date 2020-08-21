@@ -13,6 +13,7 @@
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人
 - [Coloryr/ColorMirai](https://github.com/Coloryr/ColorMirai) 基于Mirai的机器人框架
+- [HHeyJ/Mirai-Robot](https://github.com/HHeyJ/Mirai-Robot) Mirai + SpringBoot + Mybatis; 关键词回复/闪照收集/图片生成/贴吧爬虫收集播报
 
 ## 基于其他语言sdk的应用
 - [mzdluo123/MineSweeper](https://github.com/mzdluo123/MineSweeper) 基于python和mirai的扫雷小游戏机器人

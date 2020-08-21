@@ -19,3 +19,4 @@
 ## 其他优秀项目
 
 - [Lua Script Center](https://gitee.com/ooooonly/lua-mirai-project/tree/master/ScriptCenter) 基于[only52607/lua-mirai ](https://github.com/only52607/lua-mirai) 的脚本中心仓库
+[Coloryr/ColorMirai](https://github.com/Coloryr/ColorMirai) 基于Mirai的机器人框架

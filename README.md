@@ -9,7 +9,7 @@
 - [him188/mirai-console-example-plugin](https://github.com/him188/mirai-console-example-plugin) mirai-console 示例插件
 - [mzdluo123/MiraiForward](https://github.com/mzdluo123/MiraiForward) 多群消息转发插件
 
-# 基于 mirai 的应用
+# 基于 mirai 框架的应用
 - [mzdluo123/MineSweeper](https://github.com/mzdluo123/MineSweeper) 基于python和mirai的扫雷小游戏机器人
 
 

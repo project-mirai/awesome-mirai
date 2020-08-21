@@ -13,5 +13,7 @@
 ## 基于 mirai 框架的应用
 - [mzdluo123/MineSweeper](https://github.com/mzdluo123/MineSweeper) 基于python和mirai的扫雷小游戏机器人
 
+## 基于 mirai 框架的bot
+- [Coloryr/ColorMirai](https://github.com/Coloryr/ColorMirai) 基于Mirai的机器人框架
 
 ## 其他优秀项目

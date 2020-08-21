@@ -1,4 +1,4 @@
-# awsome-mirai
+# awesome-mirai
 
 本仓库用于收集 mirai 相关社区应用，例如基于 mirai 的 bot，mirai-console 的插件以及使用了其他语言 SDK 的项目
 

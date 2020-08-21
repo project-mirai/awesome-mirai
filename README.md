@@ -7,12 +7,14 @@
 
 # mirai-console 插件
 
+- [MiraiForward](https://github.com/mzdluo123/MiraiForward) 多群消息转发插件
 
 # 基于mirai的应用
 
 
 # 使用其他语言sdk开发的应用
 
+- [MineSweeper](https://github.com/mzdluo123/MineSweeper) 基于python和mirai的扫雷小游戏机器人
 
 
 # 其他优秀项目

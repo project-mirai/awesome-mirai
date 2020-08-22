@@ -2,7 +2,7 @@
 
 本仓库用于收集 mirai 相关社区应用，例如基于 mirai 的 bot，mirai-console 的插件以及使用了其他语言 SDK 的项目
 
-如果您有这类项目，欢迎提交 Pull request 将您的项目添加到这里(注意，本仓库仅接受开源项目的仓库地址, 如 `https://github.com/him188/mirai-console-example-plugin`)
+如果您有这类项目，欢迎提交 Pull request 将您的项目添加到这里(注意，本仓库仅接受开源项目的仓库地址, 如 <https://github.com/him188/mirai-console-example-plugin>)
 
 
 ## mirai-console 插件

@@ -18,6 +18,8 @@
 ## 基于其他语言sdk的应用
 - [mzdluo123/MineSweeper](https://github.com/mzdluo123/MineSweeper) 基于python和mirai的扫雷小游戏机器人
 - [farewell12345/FAQ-In-QQ](https://github.com/farewell12345/FAQ-In-QQ) 基于python和mirai的Q群问答机器人
+- [YunYouJun/el-bot](https://github.com/YunYouJun/el-bot) 基于 [mirai-ts](https://github.com/YunYouJun/mirai-ts)，使用 TS/JS 编写，可配置、可自定义插件的机器人框架
+
 ## 其他优秀项目
 
 - [Lua Script Center](https://gitee.com/ooooonly/lua-mirai-project/tree/master/ScriptCenter) 基于[only52607/lua-mirai ](https://github.com/only52607/lua-mirai) 的脚本中心仓库

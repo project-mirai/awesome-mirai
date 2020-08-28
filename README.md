@@ -9,6 +9,7 @@
 - [him188/mirai-console-example-plugin](https://github.com/him188/mirai-console-example-plugin) mirai-console 示例插件
 - [mzdluo123/MiraiForward](https://github.com/mzdluo123/MiraiForward) 多群消息转发插件
 - [yyuueexxiinngg/cqhttp-mirai](https://github.com/yyuueexxiinngg/cqhttp-mirai) 为基于onebot标准 (原cqhttp协议)提供mirai接入支持的插件
+- [Karlatemp/LuckPerms-Mirai](https://github.com/Karlatemp/LuckPerms-Mirai) 封装了 LuckPerms 的 Mirai-Console 平台版本, 提供基本API方便对接 Mirai-Console
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

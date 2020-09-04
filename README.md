@@ -8,6 +8,7 @@
 ## mirai-console 插件
 - [him188/mirai-console-example-plugin](https://github.com/him188/mirai-console-example-plugin) mirai-console 示例插件
 - [mzdluo123/MiraiForward](https://github.com/mzdluo123/MiraiForward) 多群消息转发插件
+- [Pai2Chen/mirai-console-addition](https://github.com/Pai2Chen/mirai-console-addition) console功能增强插件，提供方便的自动登录功能
 - [yyuueexxiinngg/cqhttp-mirai](https://github.com/yyuueexxiinngg/cqhttp-mirai) 为基于onebot标准 (原cqhttp协议)提供mirai接入支持的插件
 - [Karlatemp/LuckPerms-Mirai](https://github.com/Karlatemp/LuckPerms-Mirai) 封装了 LuckPerms 的 Mirai-Console 平台版本, 提供基本API方便对接 Mirai-Console
 - [45gfg9/mirai-release-watcher-plugin](https://github.com/45gfg9/mirai-release-watcher-plugin) GitHub Release 监视插件

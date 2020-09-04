@@ -18,6 +18,7 @@
 - [Coloryr/ColorMirai](https://github.com/Coloryr/ColorMirai) 基于Mirai的机器人框架
 - [HHeyJ/Mirai-Robot](https://github.com/HHeyJ/Mirai-Robot) Mirai + SpringBoot + Mybatis; 关键词回复/闪照收集/图片生成/贴吧爬虫收集播报
 - [WhiteMagic2014/WMagicBotR](https://github.com/WhiteMagic2014/WMagicBotR) Mirai + SpringBoot + Mybatis + SqLite; 基于Mirai 使用 java开发的 bot框架，在消息事件下封装了指令/权限指令 方便调用
+- [mzdluo123/TimeTableBot](https://github.com/mzdluo123/TimeTableBot) 适用于大学的课程表查询bot，提供上课提醒，课表查询等功能，已适配方正单点登录系统和教务系统
 
 ## 基于其他语言sdk的应用
 - [mzdluo123/MineSweeper](https://github.com/mzdluo123/MineSweeper) 基于python和mirai的扫雷小游戏机器人

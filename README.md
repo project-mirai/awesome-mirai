@@ -13,6 +13,9 @@
 - [Karlatemp/LuckPerms-Mirai](https://github.com/Karlatemp/LuckPerms-Mirai) 封装了 LuckPerms 的 Mirai-Console 平台版本, 提供基本API方便对接 Mirai-Console
 - [45gfg9/mirai-release-watcher-plugin](https://github.com/45gfg9/mirai-release-watcher-plugin) GitHub Release 监视插件  
 - [khjxiaogu/MiraiSongPlugin](https://github.com/khjxiaogu/MiraiSongPlugin) 基于Mirai-console的点歌姬插件，支持国内主要音乐平台，可以搜索歌曲关键词并以各种方式分享。  
+- [ShrBox/ACGH](https://github.com/ShrBox/ACGH) 极其简单的在群内发送随机二次元图片的插件  
+- [ShrBox/MCMotd](https://github.com/ShrBox/MCMotd) 极其简单的在群内查询Minecraft基岩版服务器Motd的插件  
+- [ShrBox/GroupAdministrator](https://github.com/ShrBox/GroupAdministrator) 简易的群管理插件 包含加群自动审核/检测消息关键词撤回并禁言  
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

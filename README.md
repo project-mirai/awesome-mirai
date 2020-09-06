@@ -11,7 +11,8 @@
 - [Pai2Chen/mirai-console-addition](https://github.com/Pai2Chen/mirai-console-addition) console功能增强插件，提供方便的自动登录功能
 - [yyuueexxiinngg/cqhttp-mirai](https://github.com/yyuueexxiinngg/cqhttp-mirai) 为基于onebot标准 (原cqhttp协议)提供mirai接入支持的插件
 - [Karlatemp/LuckPerms-Mirai](https://github.com/Karlatemp/LuckPerms-Mirai) 封装了 LuckPerms 的 Mirai-Console 平台版本, 提供基本API方便对接 Mirai-Console
-- [45gfg9/mirai-release-watcher-plugin](https://github.com/45gfg9/mirai-release-watcher-plugin) GitHub Release 监视插件
+- [45gfg9/mirai-release-watcher-plugin](https://github.com/45gfg9/mirai-release-watcher-plugin) GitHub Release 监视插件  
+- [khjxiaogu/MiraiSongPlugin](https://github.com/khjxiaogu/MiraiSongPlugin) 基于Mirai-console的点歌姬插件，支持国内主要音乐平台，可以搜索歌曲关键词并以各种方式分享。  
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

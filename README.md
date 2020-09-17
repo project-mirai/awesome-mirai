@@ -16,6 +16,7 @@
 - [ShrBox/ACGH](https://github.com/ShrBox/ACGH) 极其简单的在群内发送随机二次元图片的插件  
 - [ShrBox/MCMotd](https://github.com/ShrBox/MCMotd) 极其简单的在群内查询Minecraft基岩版服务器Motd的插件  
 - [ShrBox/GroupAdministrator](https://github.com/ShrBox/GroupAdministrator) 简易的群管理插件 包含加群自动审核/检测消息关键词撤回并禁言  
+- [DazeCake/Mirai-BDXwebsocket](https://github.com/DazeCake/Mirai-BDXwebsocket) 通过websocket链接Bedrockx实现qq联动远控 
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人
@@ -24,7 +25,7 @@
 - [WhiteMagic2014/WMagicBotR](https://github.com/WhiteMagic2014/WMagicBotR) Mirai + SpringBoot + Mybatis + SqLite; 基于Mirai 使用 java开发的 bot框架，在消息事件下封装了指令/权限指令 方便调用
 - [mzdluo123/TimeTableBot](https://github.com/mzdluo123/TimeTableBot) 适用于大学的课程表查询bot，提供上课提醒，课表查询等功能，已适配方正单点登录系统和教务系统
 - [xiaoxu97/mirai-plus](https://github.com/xiaoxu97/mirai-plus) 基于mirai进行二次开发，完全兼容spring、springboot，通过注解驱动开发
-- [DazeCake/Mirai-BDXwebsocket](https://github.com/DazeCake/Mirai-BDXwebsocket) 通过websocket链接Bedrockx实现qq联动远控  
+ 
 
 ## 基于其他语言sdk的应用
 - [mzdluo123/MineSweeper](https://github.com/mzdluo123/MineSweeper) 基于python和mirai的扫雷小游戏机器人

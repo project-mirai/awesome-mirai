@@ -19,6 +19,8 @@
 - [ShrBox/GroupAdministrator](https://github.com/ShrBox/GroupAdministrator) 简易的群管理插件 包含加群自动审核/检测消息关键词撤回并禁言  
 - [DazeCake/Mirai-BDXwebsocket](https://github.com/DazeCake/Mirai-BDXwebsocket) 通过websocket链接Bedrockx实现qq联动远控 
 - [khjxiaogu/MiraiPluginTemplate](https://github.com/khjxiaogu/MiraiPluginTemplate)为Eclipse IDE和maven2设计的mirai-console插件模板工程，可以快速生成插件。
+- [Karlatemp/mirai-websocket-api](https://github.com/Karlatemp/mirai-websocket-api) WebSocket API
+- [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http) Http API
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

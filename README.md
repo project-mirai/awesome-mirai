@@ -37,6 +37,7 @@
 - [farewell12345/FAQ-In-QQ](https://github.com/farewell12345/FAQ-In-QQ) 基于python和mirai的Q群问答机器人
 - [YunYouJun/el-bot](https://github.com/YunYouJun/el-bot) 基于 [mirai-ts](https://github.com/YunYouJun/mirai-ts)，使用 TS/JS 编写，可配置、可自定义插件的机器人框架
 - [ac682/arcbot](https://github.com/ac682/arcbot) 基于 [Hyperai](https://github.com/theGravityLab/ProjHyperai) 的基础机器人插件, 提供权限/货币/库存/手册/等可二次开发功能
+- [ssttkkl/PixivBot](https://github.com/ssttkkl/PixivBot) 基于[GraiaProject/Application](https://github.com/GraiaProject/Application)的看Pixiv涩图的机器人。支持查看pixiv榜单，查看指定id插画，随机抽选指定关键字插画，随机抽选书签插画，随机抽选指定画师插画功能。
 
 ## 其他优秀项目
 

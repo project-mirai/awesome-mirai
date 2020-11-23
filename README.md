@@ -22,6 +22,7 @@
 - [Karlatemp/mirai-websocket-api](https://github.com/Karlatemp/mirai-websocket-api) WebSocket API
 - [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http) Http API
 - [ssttkkl/MiraiBangumiPlugin](https://github.com/ssttkkl/MiraiBangumiPlugin) 用于番剧更新播报的mirai插件（目前仅支持b站番剧）
+- [Eiriksgata/mirai-rulateday-dice](https://github.com/Eiriksgata/mirai-rulateday-dice) 使用Java + Maven 开发的TRPG骰子插件模板。此模板集合了大部分的 mirai-console 插件所需要的配置项，开发者也可以直接使用该模板进行开发。
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

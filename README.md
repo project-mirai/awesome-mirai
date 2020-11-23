@@ -8,6 +8,7 @@
 ## mirai-console 插件
 - [him188/mirai-console-example-plugin (Kotlin DSL)](https://github.com/him188/mirai-console-example-plugin) mirai-console 示例插件 (Kotlin DSL)
 - [Karlatemp/mirai-console-example-plugin (Groovy DSL)](https://github.com/Karlatemp/mirai-console-example-plugin) mirai-console 示例插件 (Groovy DSL)
+- [project-mirai/chat-command](https://github.com/project-mirai/chat-command) 聊天环境执行命令支持
 - [mzdluo123/MiraiForward](https://github.com/mzdluo123/MiraiForward) 多群消息转发插件
 - [Pai2Chen/mirai-console-addition](https://github.com/Pai2Chen/mirai-console-addition) console功能增强插件，提供方便的自动登录功能
 - [yyuueexxiinngg/cqhttp-mirai](https://github.com/yyuueexxiinngg/cqhttp-mirai) 为基于onebot标准 (原cqhttp协议)提供mirai接入支持的插件

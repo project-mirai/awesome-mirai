@@ -33,6 +33,7 @@
 - [mzdluo123/TimeTableBot](https://github.com/mzdluo123/TimeTableBot) 适用于大学的课程表查询bot，提供上课提醒，课表查询等功能，已适配方正单点登录系统和教务系统
 - [xiaoxu97/mirai-plus](https://github.com/xiaoxu97/mirai-plus) 基于mirai进行二次开发，完全兼容spring、springboot，通过注解驱动开发
 - [Liangbai2333/LRobot](https://github.com/Liangbai2333/LRobot) 基于Java、ASM、URLClassLoader与一套注解系统实现的插件加载框架，并在此基础上封装了监听系统，指令系统，配置文件及一系列集成消息(音乐等)功能
+- [smallshen/MiraiBotCommandBuilder](https://github.com/smallshen/MiraiBotCommandBuilder) 支持 Kotlin DSL 写指令
  
 
 ## 基于其他语言sdk的应用

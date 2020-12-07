@@ -46,3 +46,4 @@
 
 - [Lua Script Center](https://gitee.com/ooooonly/lua-mirai-project/tree/master/ScriptCenter) 基于[only52607/lua-mirai ](https://github.com/only52607/lua-mirai) 的脚本中心仓库
 - [NoneBot](https://github.com/nonebot/nonebot2) 跨平台 Python 机器人框架 (QQ，钉钉，...)
+- [smallshen/MiraiBotCommandBuilder](https://github.com/smallshen/MiraiBotCommandBuilder) 支持 Kotlin DSL 写QQ机器人指令

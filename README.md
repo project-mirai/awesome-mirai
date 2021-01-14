@@ -28,6 +28,7 @@
 - [KonnyakuCamp/SuperCourseTimetableBot](https://github.com/KonnyakuCamp/SuperCourseTimetableBot) 超级课程表课程提醒插件，提供上课提醒，适配不同使用超级课程表的大学，简易的交互式用户操作。
 
 ## 基于 mirai 框架的应用
+- [rxrw/mirai-docker-starter](https://github.com/rxrw/mirai-docker-starter) 基于docker的 mirai + maria-http-api 的镜像 基于 mirai 控制台更新
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人
 - [Coloryr/ColorMirai](https://github.com/Coloryr/ColorMirai) 基于Mirai的机器人框架
 - [HHeyJ/Mirai-Robot](https://github.com/HHeyJ/Mirai-Robot) Mirai + SpringBoot + Mybatis; 关键词回复/闪照收集/图片生成/贴吧爬虫收集播报

@@ -57,3 +57,4 @@
 - [lmcl](https://github.com/lc6a/lmcl) 接管mcl的启动来实现插件热加载
 - [TxCaptchaHelper](https://github.com/mzdluo123/TxCaptchaHelper) 滑动验证助手，帮助mirai获得滑动验证的ticket
 - [rxrw/mirai-docker-start](https://github.com/rxrw/mirai-docker-starter) 基于docker的 `mirai-console` + `mirai-http-api` 的一键启动封装。配合`docker-compose`使用最佳
+- [EpicMoMiraiG](https://www.github.com/liaosunny123/epicmomiraig)封装'mirai-console'+'mirai-http-api'的mirai一键启动器和辅助管理器。

@@ -48,6 +48,7 @@
 - [ssttkkl/PixivBot](https://github.com/ssttkkl/PixivBot) 基于[GraiaProject/Application](https://github.com/GraiaProject/Application)的看Pixiv涩图的机器人。支持查看pixiv榜单，查看指定id插画，随机抽选指定关键字插画，随机抽选书签插画，随机抽选指定画师插画功能。
 - [lanyi/qwq](https://github.com/BSG-75/qwq) 基于 [mirai-ts](https://github.com/YunYouJun/mirai-ts) 的简陋版多群消息转发机器人
 - [SAGIRI-kawaii/sagiri-bot](https://github.com/SAGIRI-kawaii/sagiri-bot) 基于[GraiaProject/Application](https://github.com/GraiaProject/Application)的多功能机器人。支持自定义多种类图库分割，以图搜图，以图搜番，微博、知乎、github热搜的获取，番剧/steam游戏信息查询、点歌，摸头gif生成，996公司查询，生成二维码，电子书搜索，磁力链搜索，群聊天记录按频率生成词云，智能回复（多种状态）等多种功能
+- [Mirai-js](https://github.com/drinkal/Mirai-js) 基于 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 运行在 node.js 平台下的 Mirai 机器人框架。
 
 ## 其他优秀项目
 

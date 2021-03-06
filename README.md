@@ -29,6 +29,7 @@
 - [Eiriksgata/mirai-rulateday-dice](https://github.com/Eiriksgata/mirai-rulateday-dice) 使用Java + Maven 开发的TRPG骰子插件模板。此模板集合了大部分的 mirai-console 插件所需要的配置项，开发者也可以直接使用该模板进行开发。
 - [KonnyakuCamp/SuperCourseTimetableBot](https://github.com/KonnyakuCamp/SuperCourseTimetableBot) 超级课程表课程提醒插件，提供上课提醒，适配不同使用超级课程表的大学，简易的交互式用户操作。
 - [Itsusinn/MessageForward](https://github.com/Itsusinn/message-forward/tree/main/message-source/mirai-source) 支持不同IM平台的消息转发，如Minecraft,QQ,Discord
+- [EromangaMe/QShell](https://github.com/EromangaMe/QShell) 通过聊天的方式执行shell
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

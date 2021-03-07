@@ -4,6 +4,8 @@
 
 如果您有这类项目，欢迎提交 Pull request 将您的项目添加到这里(注意，本仓库仅接受开源项目的仓库地址, 如 `https://github.com/him188/mirai-console-example-plugin`)
 
+也可以到 [Mirai论坛/项目发布](https://mirai.mamoe.net/category/6/) 中发布您的项目
+
 **注意：如果你的项目引用了Mirai相关内容，请遵守开源协议并将你的项目开源许可证设置为`AGPL-3.0`**
 
 ## mirai-console 插件

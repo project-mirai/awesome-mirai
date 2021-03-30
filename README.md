@@ -63,5 +63,4 @@
 - [TxCaptchaHelper](https://github.com/mzdluo123/TxCaptchaHelper) 滑动验证助手，帮助mirai获得滑动验证的ticket
 - [mzdluo123/silk4j](https://github.com/mzdluo123/silk4j) silk语音编码器的Java接口，可用于配合mirai发送语音消息
 - [rxrw/mirai-docker-start](https://github.com/rxrw/mirai-docker-starter) 基于docker的 `mirai-console` + `mirai-http-api` 的一键启动封装。配合`docker-compose`使用最佳
-- [EpicMoMiraiG](https://www.github.com/liaosunny123/epicmomiraig)封装'mirai-console'+'mirai-http-api'的mirai一键启动器和辅助管理器。
 - [mirai-spring-boot-starter](https://github.com/mzdluo123/mirai-spring-boot-starter) mirai的springboot starter

@@ -65,3 +65,4 @@
 - [mzdluo123/silk4j](https://github.com/mzdluo123/silk4j) silk语音编码器的Java接口，可用于配合mirai发送语音消息
 - [rxrw/mirai-docker-start](https://github.com/rxrw/mirai-docker-starter) 基于docker的 `mirai-console` + `mirai-http-api` 的一键启动封装。配合`docker-compose`使用最佳
 - [mirai-spring-boot-starter](https://github.com/mzdluo123/mirai-spring-boot-starter) mirai的springboot starter
+- [Koishi](https://github.com/koishijs/koishi) 跨平台 Node.js 机器人框架，支持 OneBot、Telegram、Discord 等多个平台，原生提供多种数据库支持、跨平台账号绑定、网页控制台等丰富特性

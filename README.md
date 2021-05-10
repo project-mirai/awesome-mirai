@@ -34,6 +34,7 @@
 - [EromangaMe/QShell](https://github.com/EromangaMe/QShell) 通过聊天的方式执行shell
 - [EzrealC/Mirai-TarkovMarket-Plugin](https://github.com/EzrealC/Mirai-TarkovMarket-Plugin) 实现Tarkov Market API接口的Mirai-Console插件
 - [PlexPt/mirai-poem](https://github.com/PlexPt/mirai-poem) Mirai-Console插件：AI 作诗、彩虹屁
+- [cssxsh/arknights-helper](https://github.com/cssxsh/arknights-helper) 明日方舟游戏相关插件: 游戏掉落物查询、理智提醒、游戏知识问答、蹲饼
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

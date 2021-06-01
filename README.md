@@ -36,7 +36,6 @@
 - [PlexPt/mirai-poem](https://github.com/PlexPt/mirai-poem) Mirai-Console插件：AI 作诗、彩虹屁
 - [cssxsh/arknights-helper](https://github.com/cssxsh/arknights-helper) 明日方舟游戏相关插件: 游戏掉落物查询、理智提醒、游戏知识问答、蹲饼
 - [limbang/mirai-console-mcmod-plugin](https://github.com/limbang/mirai-console-mcmod-plugin) Minecraft百科查询
-- [limbang/mirai-console-minecraft-plugin](https://github.com/limbang/mirai-console-minecraft-plugin) Minecraft Ping信息 tps信息 发送`!服务器`ping `!服务器tps`获取tps
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

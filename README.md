@@ -59,6 +59,7 @@
 - [lanyi/qwq](https://github.com/BSG-75/qwq) 基于 [mirai-ts](https://github.com/YunYouJun/mirai-ts) 的简陋版多群消息转发机器人
 - [SAGIRI-kawaii/sagiri-bot](https://github.com/SAGIRI-kawaii/sagiri-bot) 基于[GraiaProject/Application](https://github.com/GraiaProject/Application)的多功能机器人。支持自定义多种类图库分割，以图搜图，以图搜番，微博、知乎、github热搜的获取，番剧/steam游戏信息查询、点歌，摸头gif生成，996公司查询，生成二维码，电子书搜索，磁力链搜索，群聊天记录按频率生成词云，智能回复（多种状态）等多种功能
 - [Mirai-js](https://github.com/drinkal/Mirai-js) 基于 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 运行在 node.js 平台下的 Mirai 机器人框架。
+- [STDSuperman/QQRobot](https://github.com/STDSuperman/QQRobot) 基于 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 运行与 node.js 平台下，提供 QQ 多群消息转发能力；群内关键字触发彩虹屁、舔狗日记自动发送；基于 [khjxiaogu/MiraiSongPlugin](https://github.com/khjxiaogu/MiraiSongPlugin) 实现群内点歌能力；支持群内群员投票踢人能力。
 
 ## 其他优秀项目
 

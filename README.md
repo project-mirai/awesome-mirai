@@ -39,6 +39,7 @@
 - [limbang/mirai-console-minecraft-plugin](https://github.com/limbang/mirai-console-minecraft-plugin) Minecraft java服务器状态查询,基于Forge查询tps(戳一戳机器人获取帮助)
 - [Minxyzgo/MiraiGoChess](https://github.com/Minxyzgo/MiraiGoChess) 围棋插件
 - [j4ger/firewatch](https://github.com/j4ger/firewatch) 社交媒体更新搬运插件
+- [asforest/MShell](https://github.com/asforest/MShell) 把QQ聊天窗口变成Shell透传来远程控制电脑或者服务器
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人
@@ -60,6 +61,8 @@
 - [lanyi/qwq](https://github.com/BSG-75/qwq) 基于 [mirai-ts](https://github.com/YunYouJun/mirai-ts) 的简陋版多群消息转发机器人
 - [SAGIRI-kawaii/sagiri-bot](https://github.com/SAGIRI-kawaii/sagiri-bot) 基于[GraiaProject/Application](https://github.com/GraiaProject/Application)的多功能机器人。支持自定义多种类图库分割，以图搜图，以图搜番，微博、知乎、github热搜的获取，番剧/steam游戏信息查询、点歌，摸头gif生成，996公司查询，生成二维码，电子书搜索，磁力链搜索，群聊天记录按频率生成词云，智能回复（多种状态）等多种功能
 - [Mirai-js](https://github.com/drinkal/Mirai-js) 基于 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 运行在 node.js 平台下的 Mirai 机器人框架。
+- [STDSuperman/QQRobot](https://github.com/STDSuperman/QQRobot) 基于 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 运行与 node.js 平台下，提供 QQ 多群消息转发能力；群内关键字触发彩虹屁、舔狗日记自动发送；基于 [khjxiaogu/MiraiSongPlugin](https://github.com/khjxiaogu/MiraiSongPlugin) 实现群内点歌能力；支持群内群员投票踢人能力。
+- [LGTBot-Mirai](https://github.com/slontia/lgtbot-mirai) 基于 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 和 [mirai-cpp SDK](https://github.com/cyanray/mirai-cpp) 的游戏裁判机器人，支持私信机器人和在群内 at 机器人两种游戏方式，支持战绩持久化记录。截止 2022-01-01，已经实现了 8 款不同规则的游戏。
 
 ## 其他优秀项目
 
@@ -70,6 +73,7 @@
 - [TxCaptchaHelper](https://github.com/mzdluo123/TxCaptchaHelper) 滑动验证助手，帮助mirai获得滑动验证的ticket
 - [mzdluo123/silk4j](https://github.com/mzdluo123/silk4j) silk语音编码器的Java接口，可用于配合mirai发送语音消息
 - [rxrw/mirai-docker-start](https://github.com/rxrw/mirai-docker-starter) 基于docker的 `mirai-console` + `mirai-http-api` 的一键启动封装。配合`docker-compose`使用最佳
+- [ZhaoZuohong/mirai-mah-docker](https://github.com/ZhaoZuohong/mirai-mah-docker) Mirai 与 mirai-api-http 的 Dockerfile ，发布在 DockerHub 上：[zhaozuohong/mah](https://hub.docker.com/r/zhaozuohong/mah)
 - [mirai-spring-boot-starter](https://github.com/mzdluo123/mirai-spring-boot-starter) mirai的springboot starter
 - [Koishi](https://github.com/koishijs/koishi) 跨平台 Node.js 机器人框架，支持 OneBot、Telegram、Discord 等多个平台，原生提供多种数据库支持、跨平台账号绑定、网页控制台等丰富特性
 

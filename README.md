@@ -38,6 +38,7 @@
 - [limbang/mirai-console-mcmod-plugin](https://github.com/limbang/mirai-console-mcmod-plugin) Minecraft百科查询(戳一戳机器人获取帮助)
 - [limbang/mirai-console-minecraft-plugin](https://github.com/limbang/mirai-console-minecraft-plugin) Minecraft java服务器状态查询,基于Forge查询tps(戳一戳机器人获取帮助)
 - [Minxyzgo/MiraiGoChess](https://github.com/Minxyzgo/MiraiGoChess) 围棋插件
+- [j4ger/firewatch](https://github.com/j4ger/firewatch) 社交媒体更新搬运插件
 - [asforest/MShell](https://github.com/asforest/MShell) 把QQ聊天窗口变成Shell透传来远程控制电脑或者服务器
 
 ## 基于 mirai 框架的应用

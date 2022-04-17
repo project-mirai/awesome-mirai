@@ -40,6 +40,7 @@
 - [Minxyzgo/MiraiGoChess](https://github.com/Minxyzgo/MiraiGoChess) 围棋插件
 - [j4ger/firewatch](https://github.com/j4ger/firewatch) 社交媒体更新搬运插件
 - [asforest/MShell](https://github.com/asforest/MShell) 把QQ聊天窗口变成Shell透传来远程控制电脑或者服务器
+- [smallXueTu/Rcon](https://github.com/smallXueTu/Rcon) 使机机器人通过Rcon协议管理Minecraft服务器，支持多服管理
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

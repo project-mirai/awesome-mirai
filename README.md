@@ -40,6 +40,7 @@
 - [Minxyzgo/MiraiGoChess](https://github.com/Minxyzgo/MiraiGoChess) 围棋插件
 - [j4ger/firewatch](https://github.com/j4ger/firewatch) 社交媒体更新搬运插件
 - [asforest/MShell](https://github.com/asforest/MShell) 把QQ聊天窗口变成Shell透传来远程控制电脑或者服务器
+- [Sh1roCu/BCR](https://github.com/Sh1roCu/BCR) 用于BCR（公主连结Re:Dive简中服）公会战相关的MiraiConsole插件，包含部分bilibili相关功能（查询UP主信息，实时监听UP主动态并发送到群聊等）
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

@@ -27,6 +27,7 @@
 - [khjxiaogu/MiraiPluginTemplate](https://github.com/khjxiaogu/MiraiPluginTemplate)为Eclipse IDE和maven2设计的mirai-console插件模板工程，可以快速生成插件。
 - [Karlatemp/mirai-websocket-api](https://github.com/Karlatemp/mirai-websocket-api) WebSocket API
 - [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http) Http API
+- [happysnaker/mirai-plugin-HRobot](https://github.com/happysnaker/mirai-plugin-HRobot) 群机器人，支持涩图、美图、风景图和鸡汤发送，聚合多个音乐平台点歌点歌，具备砍公会战管理，支持简单对话聊天
 - [ssttkkl/MiraiBangumiPlugin](https://github.com/ssttkkl/MiraiBangumiPlugin) 用于番剧更新播报的mirai插件（目前仅支持b站番剧）
 - [Eiriksgata/mirai-rulateday-dice](https://github.com/Eiriksgata/mirai-rulateday-dice) 使用Java + Maven 开发的TRPG骰子插件模板。此模板集合了大部分的 mirai-console 插件所需要的配置项，开发者也可以直接使用该模板进行开发。
 - [KonnyakuCamp/SuperCourseTimetableBot](https://github.com/KonnyakuCamp/SuperCourseTimetableBot) 超级课程表课程提醒插件，提供上课提醒，适配不同使用超级课程表的大学，简易的交互式用户操作。

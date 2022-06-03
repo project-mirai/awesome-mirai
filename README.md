@@ -43,7 +43,8 @@
 - [asforest/MShell](https://github.com/asforest/MShell) 把QQ聊天窗口变成Shell透传来远程控制电脑或者服务器
 - [smallXueTu/Rcon](https://github.com/smallXueTu/Rcon) 使机机器人通过Rcon协议管理Minecraft服务器，支持多服管理
 - [Sh1roCu/BCR](https://github.com/Sh1roCu/BCR) 用于BCR（公主连结Re:Dive简中服）公会战相关的MiraiConsole插件，包含部分bilibili相关功能（查询UP主信息，实时监听UP主动态并发送到群聊等）
-
+- [limbang/mirai-console-mcsm-plugin](https://github.com/limbang/mirai-console-mcsm-plugin) MCSM api 控制插件
+- [limbang/mirai-console-rcon-plugin](https://github.com/limbang/mirai-console-rcon-plugin) 使用 RCON 协议远程控制Minecraft服务器
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

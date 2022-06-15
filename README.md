@@ -45,6 +45,7 @@
 - [Sh1roCu/BCR](https://github.com/Sh1roCu/BCR) 用于BCR（公主连结Re:Dive简中服）公会战相关的MiraiConsole插件，包含部分bilibili相关功能（查询UP主信息，实时监听UP主动态并发送到群聊等）
 - [limbang/mirai-console-mcsm-plugin](https://github.com/limbang/mirai-console-mcsm-plugin) MCSM api 控制插件
 - [limbang/mirai-console-rcon-plugin](https://github.com/limbang/mirai-console-rcon-plugin) 使用 RCON 协议远程控制Minecraft服务器
+- [985892345/mirai-hotfix](https://github.com/985892345/mirai-hotfix) 基于 Mirai Console 实现的热修插件
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

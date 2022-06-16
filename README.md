@@ -82,6 +82,7 @@
 - [ZhaoZuohong/mirai-mah-docker](https://github.com/ZhaoZuohong/mirai-mah-docker) Mirai 与 mirai-api-http 的 Dockerfile ，发布在 DockerHub 上：[zhaozuohong/mah](https://hub.docker.com/r/zhaozuohong/mah)
 - [mirai-spring-boot-starter](https://github.com/mzdluo123/mirai-spring-boot-starter) mirai的springboot starter
 - [Koishi](https://github.com/koishijs/koishi) 跨平台 Node.js 机器人框架，支持 OneBot、Telegram、Discord 等多个平台，原生提供多种数据库支持、跨平台账号绑定、网页控制台等丰富特性
+- [MiraiChess](https://github.com/aimerneige/MiraiChess) 使用 [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template) 实现的国际象棋机器人。
 
 ## Other Supports
 [社区赞助入口](https://github.com/project-mirai/mirai-sponsor)

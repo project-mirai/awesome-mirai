@@ -51,6 +51,7 @@
 - [jie65535/mirai-console-j24-plugin](https://github.com/jie65535/mirai-console-j24-plugin) 24点小游戏插件，支持位运算和群排名
 - [jie65535/mirai-console-jnr-plugin](https://github.com/jie65535/mirai-console-jnr-plugin) 自定义戳一戳回复消息插件
 - [jie65535/mirai-console-jcr-plugin](https://github.com/jie65535/mirai-console-jcr-plugin) C/C++ 文档查询插件（支持查询 C/C++/Qt 的文档）
+- [DreamOneX/mirai-httpcat](https://github.com/DreamOneX/mirai-httpcat) 通过发送 `http.cat/ + http状态码` 获取对应的 http cat
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人

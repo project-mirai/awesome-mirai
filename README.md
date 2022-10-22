@@ -40,7 +40,7 @@
 - [limbang/mirai-console-minecraft-plugin](https://github.com/limbang/mirai-console-minecraft-plugin) Minecraft java服务器状态查询,基于Forge查询tps(戳一戳机器人获取帮助)
 - [Minxyzgo/MiraiGoChess](https://github.com/Minxyzgo/MiraiGoChess) 围棋插件
 - [j4ger/firewatch](https://github.com/j4ger/firewatch) 社交媒体更新搬运插件
-- [asforest/MShell](https://github.com/asforest/MShell) 把QQ聊天窗口变成Shell透传来远程控制电脑或者服务器
+- [asforest/MShell](https://github.com/asforest/MShell) 一个Mirai机器人插件，用来连接QQ聊天窗口和系统Shell
 - [smallXueTu/Rcon](https://github.com/smallXueTu/Rcon) 使机机器人通过Rcon协议管理Minecraft服务器，支持多服管理
 - [Sh1roCu/BCR](https://github.com/Sh1roCu/BCR) 用于BCR（公主连结Re:Dive简中服）公会战相关的MiraiConsole插件，包含部分bilibili相关功能（查询UP主信息，实时监听UP主动态并发送到群聊等）
 - [limbang/mirai-console-mcsm-plugin](https://github.com/limbang/mirai-console-mcsm-plugin) MCSM api 控制插件

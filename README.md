@@ -77,6 +77,7 @@
 - [STDSuperman/QQRobot](https://github.com/STDSuperman/QQRobot) 基于 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 运行与 node.js 平台下，提供 QQ 多群消息转发能力；群内关键字触发彩虹屁、舔狗日记自动发送；基于 [khjxiaogu/MiraiSongPlugin](https://github.com/khjxiaogu/MiraiSongPlugin) 实现群内点歌能力；支持群内群员投票踢人能力。
 - [LGTBot-Mirai](https://github.com/slontia/lgtbot-mirai) 基于 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 和 [mirai-cpp SDK](https://github.com/cyanray/mirai-cpp) 的游戏裁判机器人，支持私信机器人和在群内 at 机器人两种游戏方式，支持战绩持久化记录。截止 2022-01-01，已经实现了 8 款不同规则的游戏。  
 - [ATRIRoBot](https://github.com/ShiroDoMain/ATRI-qqbot) 基于 [karas](https://github.com/ShiroDoMain/karas) 的python机器人,支持以图搜图，以图搜番，Markov生成，查询天气，随机涩图等功能  
+- [QChatGPT](https://github.com/RockChinQ/QChatGPT) 基于 [YiriMirai](https://github.com/YiriMiraiProject/YiriMirai) 框架的ChatGPT机器人，通过调用OpenAI官方的Completion API实现智能对话、AI绘图等功能，具有完善的会话管理、OpenAI账号管理功能  
 
 ## 其他优秀项目
 

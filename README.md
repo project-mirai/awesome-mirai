@@ -64,6 +64,7 @@
 - [Liangbai2333/LRobot](https://github.com/Liangbai2333/LRobot) 基于Java、ASM、URLClassLoader与一套注解系统实现的插件加载框架，并在此基础上封装了监听系统，指令系统，配置文件及一系列集成消息(音乐等)功能
 - [MikuNyanya/RabbitBot_RE](https://github.com/MikuNyanya/RabbitBot_RE) 使用 java 语言 mirai + spring + maven + quartz开发的机器人；接入了新浪微博、pixiv、Saucenao
 - [farewell12345/FAQ-Bot-QQ](https://github.com/farewell12345/FAQ-Bot-QQ) mirai+MariaDB+Ktorm的Q群问答机器人，封装了指令/权限路由，囊括了群内随机抽签/游戏群组/图片发送/迎新功能
+- [wssy001/mirai-graalvm](https://github.com/wssy001/mirai-graalvm) 一个 Mirai + GraalVM + SpringBoot3 项目，为使用 Java 的 Mirai 机器人开发者提供了一个适配 Serverless （FaaS 向） 的可能
 
 ## 基于其他语言sdk的应用
 - [mzdluo123/MineSweeper](https://github.com/mzdluo123/MineSweeper) 基于python和mirai的扫雷小游戏机器人

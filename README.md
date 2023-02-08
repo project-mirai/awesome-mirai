@@ -53,6 +53,7 @@
 - [jie65535/mirai-console-jcr-plugin](https://github.com/jie65535/mirai-console-jcr-plugin) C/C++ 文档查询插件（支持查询 C/C++/Qt 的文档）
 - [DreamOneX/mirai-httpcat](https://github.com/DreamOneX/mirai-httpcat) 通过发送 `http.cat/ + http状态码` 获取对应的 http cat
 - [LinHeLurking/mirai-news-reporter](https://github.com/LinHeLurking/mirai-news-reporter) 一个简单的每日新闻速报/番剧速报插件
+- [MrThanlon/mirai--CHPostal](https://github.com/MrThanlon/mirai-CHPostal) CH邮局插件，自动手记人偶薇尔莉特可以帮助您同步多个群的消息
 
 ## 基于 mirai 框架的应用
 - [kenvix/ComplexBot](https://github.com/kenvix/ComplexBot) 集成广告拦截/消息监视与统计/迎新/验证码识别/算卦等功能的复合机器人
